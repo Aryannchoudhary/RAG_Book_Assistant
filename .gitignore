@@ -1,0 +1,5 @@
+.venv
+.document_loaders
+.env
+.Retrievers
+.vector_store
